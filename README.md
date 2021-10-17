@@ -4,5 +4,5 @@ Bruteforce directories or files using simple python3 script.
 
 * Usage: 
 * `pip3 install -r requirements.txt`
- * `python3 dirbruter.py`
+* `python3 dirbruter.py`
 
