@@ -1,8 +1,9 @@
 # dirbruter python3
 Bruteforce directories or files using simple python3 script.
 
+![](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=green&color=black)
 
 * Usage: 
 * `pip3 install -r requirements.txt`
-- `python3 dirbruter.py`
+* `python3 dirbruter.py`
 
