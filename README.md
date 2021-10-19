@@ -1,4 +1,4 @@
-# dirpy v1.1
+# dirPy v1.1
 ### Bruteforce directories or files using simple python3 script.
 * ### Works on termux 
 Only end user is responsible for the usage of this script. 
