@@ -2,7 +2,7 @@ import argparse
 import requests
 from colorama import Fore, Style ,Back
 
-parser = argparse.ArgumentParser(description="dirbruter [Bruteforce files and directories]")
+parser = argparse.ArgumentParser(description="dirPy [Bruteforce files and directories]")
 parser.add_argument('-u','--url',type=str,required=True,help='Enter the  target url')
 parser.add_argument('-w','--path',type=str,required=True,help='Enter  path to the wordlist')
 args=parser.parse_args()
