@@ -11,7 +11,7 @@ Only end user is responsible for the usage of this script.
 * `latest version of pip3`
 
 > Installation: 
-* `git clone https://github.com/noisyboy/dirpy.git`
+* `git clone https://github.com/noisyboy/dirPy.git`
 * `pip3 install -r requirements.txt`
 
 >Usage:
