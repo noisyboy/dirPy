@@ -15,6 +15,6 @@ Only end user is responsible for the usage of this script.
 * `pip3 install -r requirements.txt`
 
 >Usage:
-* `python3 dirpy.py -u [url] -w [path to wordlist] `
+* `python3 dirPy.py -u [url] -w [path to wordlist] `
 >For help :
-* `python3 dirpy.py -h`
+* `python3 dirPy.py -h`
