@@ -4,7 +4,7 @@
 Only end user is responsible for the usage of this script. 
 
 [![python](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=yellow&color=black)](dirbruter.py)
-![version](https://img.shields.io/badge/release-v1.1-brightgreen)
+![version](https://img.shields.io/badge/release-v1.2-brightgreen)
 
 >Requirements:
 * `python 3.6+`
