@@ -3,7 +3,7 @@
 * ### Works on termux 
 Only end user is responsible for the usage of this script. 
 
-[![python](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=yellow&color=black)](dirbruter.py)
+[![python](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=yellow&color=black)](dirPy.py)
 ![version](https://img.shields.io/badge/release-v1.2-brightgreen)
 
 >Requirements:
